@@ -9,7 +9,7 @@ license = "Apache-2.0"
 repository = "https://github.com/tikv/yatp/"
 
 [dependencies]
-crossbeam-deque = "0.7"
+crossbeam-deque = "0.8"
 dashmap = "3.11.10"
 fail = "0.4"
 lazy_static = "1"
